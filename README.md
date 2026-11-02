@@ -5,7 +5,8 @@
 
 A small, interactive particle system written in C++ with [raylib](https://github.com/raysan5/raylib). Hold the left mouse button and a spray of colorful, fading circles pours out of the cursor. The project uses an **object pool**, so all particles are created once at startup and reused for the lifetime of the program.
 
-<img width="780" height="732" alt="ParticleEmit" src="https://github.com/user-attachments/assets/dd2c931d-17af-4124-b596-8ec828e68f88" />
+<img width="780" height="703" alt="ParticleEmit2" src="https://github.com/user-attachments/assets/25262703-3d50-4536-a9d1-5b0c2888ba38" />
+
 
 ## Table of Contents
 
